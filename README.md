@@ -1,2 +1,2 @@
 # hello-world
-My firts git repository
+Esta es el código de Jorge
