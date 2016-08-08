@@ -1,2 +1,2 @@
 # hello-world
-My firts git repository
+Este es el código de iris
